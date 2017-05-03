@@ -1,0 +1,1 @@
+caffe train --solver=../caffe_model/solver.prototxt --weights ../caffe_model/bvlc_reference_caffenet.caffemodel

@@ -1,0 +1,5 @@
+Log file created at: 2017/05/04 02:15:51
+Running on machine: CSZ220
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0504 02:15:51.243856 15008 upgrade_proto.cpp:49] Note that future Caffe releases will only support transform_param messages for transformation fields.
+W0504 02:15:51.691357 15008 upgrade_proto.cpp:49] Note that future Caffe releases will only support transform_param messages for transformation fields.

@@ -1,0 +1,4 @@
+Log file created at: 2017/05/04 01:50:23
+Running on machine: CSZ220
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F0504 01:50:23.620409  4644 solver.cpp:462] Cannot write to snapshot prefix '../caffe_model/snapshot/model_transfer'.  Make sure that the directory exists and is writeable.
