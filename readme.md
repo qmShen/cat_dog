@@ -4,6 +4,10 @@ There are two version of the implementation, which distributed in two different 
 
 Compared with these two methods, the m2 has a significant better performance for both accuracy and convergence rate.
 
+This project is tested on windows10, cuda 8.0, vs2015 and python2.7
+
+The caffe project should be complied and the directory caffe-windows/Build/Build/x64/Release into path, and add caffe-windows/Build/x64/Release/pycaffe/caffe to python \Lib\site-packages
+
 M1.
 1. We transform the data into leveldb and you can download the leveldb data from the http://pan.baidu.com/s/1pKGPvlT, directly put the three folders into the  dog_cat/m1/.
 
