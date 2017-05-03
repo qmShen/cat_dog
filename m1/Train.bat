@@ -1,0 +1,1 @@
+caffe.exe train --solver catdog_solver.prototxt

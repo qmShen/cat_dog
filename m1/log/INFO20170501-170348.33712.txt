@@ -1,0 +1,27 @@
+Log file created at: 2017/05/01 17:03:48
+Running on machine: CSZ220
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0501 17:03:48.125329 25900 caffe.cpp:218] Using GPUs 0
+I0501 17:03:48.329329 25900 caffe.cpp:223] GPU 0: GeForce GTX 1070
+I0501 17:03:48.665201 25900 solver.cpp:48] Initializing solver from parameters: 
+test_iter: 100
+test_interval: 1000
+base_lr: 0.01
+display: 100
+max_iter: 1000000
+lr_policy: "inv"
+gamma: 0.0001
+power: 0.5
+momentum: 0.9
+weight_decay: 0.0005
+stepsize: 100000
+snapshot: 1000
+snapshot_prefix: "./Qiaomu_pj/network/snapshot/catdog_"
+solver_mode: GPU
+device_id: 0
+net: "./network/catdog_train.prototxt"
+train_state {
+  level: 0
+  stage: ""
+}
+F0501 17:03:48.667201 25900 solver.cpp:462] Cannot write to snapshot prefix './Qiaomu_pj/network/snapshot/catdog_'.  Make sure that the directory exists and is writeable.

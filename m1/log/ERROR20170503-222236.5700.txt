@@ -1,0 +1,4 @@
+Log file created at: 2017/05/03 22:22:36
+Running on machine: CSZ220
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F0503 22:22:36.302520  1948 io.cpp:41] Check failed: fd != -1 (-1 vs. -1) File not found: network/catdog_solver.prototxt

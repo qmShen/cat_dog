@@ -1,0 +1,4 @@
+Log file created at: 2017/05/01 17:03:48
+Running on machine: CSZ220
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F0501 17:03:48.667201 25900 solver.cpp:462] Cannot write to snapshot prefix './Qiaomu_pj/network/snapshot/catdog_'.  Make sure that the directory exists and is writeable.

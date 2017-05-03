@@ -1,0 +1,4 @@
+Log file created at: 2017/05/03 20:43:18
+Running on machine: CSZ220
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F0503 20:43:18.845057  6776 common.cpp:191] Check failed: error == cudaSuccess (10 vs. 0)  invalid device ordinal
