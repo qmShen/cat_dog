@@ -4,9 +4,10 @@ There are two version of the implementation, which distributed in two different 
 
 Compared with these two methods, the m2 has a significant better performance for both accuracy and convergence rate.
 
-1 M1, we transform the data into leveldb and you can download the leveldb data from the http://pan.baidu.com/s/1pKGPvlT, directly put the three folders into the  dog_cat/m1/.
+M1.
+1. We transform the data into leveldb and you can download the leveldb data from the http://pan.baidu.com/s/1pKGPvlT, directly put the three folders into the  dog_cat/m1/.
 
-2 Run Train.bat in the current directory and the model will be put into the snapshot folder.
+2. Run Train.bat in the current directory and the model will be put into the snapshot folder.
 
 To be continued...
 
