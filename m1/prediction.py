@@ -45,7 +45,7 @@ transformer.set_transpose('data', (2,0,1))
 Making predicitions
 '''
 ##Reading image paths
-test_img_paths = [img_path for img_path in glob.glob("../data/test/*jpg")]
+test_img_paths = [img_path for img_path in glob.glob("data/test/*jpg")]
 
 test_ids = []
 preds = []
