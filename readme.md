@@ -1,6 +1,6 @@
 This is a project for the competition: Dog vs Cat https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition.
 
-There are two version of the implementation, which distributed in two different folders m1 and m2, m1 is a shallow network and m2 is methods based on BAIR Reference CaffeNet (inspired by blog http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
+There are two versions of the implementation, which distributed in two different folders m1 and m2, m1 is a shallow network and m2 is methods based on BAIR Reference CaffeNet (inspired by blog http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
 
 Compared with these two methods, the m2 has a significant better performance for both accuracy and convergence rate.
 
@@ -13,7 +13,7 @@ M1.
 
 2. Run Train.bat in the current directory and the model will be put into the snapshot folder.
 
-To be continued...
+3. Run m1/prediction.py, the file result.csv will be generated into the directory m1
 
 M2.
 1. Decompress the train.zip data from the https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data, and put all the images into m2/data/train; decompress test.zip and put all the images into n2/data/test/
